@@ -63,7 +63,7 @@ useEffect(() => {
   return (
     <div style={styles.container}>
       <div style={styles.chatBox}>
-        <h2 style={styles.title}>🤖 Hey! Sarcasto </h2>
+        <h2 style={styles.title}>🤖 Hi, Sarcasto </h2>
 
         <div style={styles.messagesContainer}>
           {messages.length === 0 ? (
